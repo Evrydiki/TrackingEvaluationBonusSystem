@@ -1,0 +1,2 @@
+# TrackingEvaluationBonusSystem
+This project refers to the development of a business web application, which helps in the automation of a company's functions in the section of evaluation and reward of employee bonus. The language that was used for writing the application’s code is Java for web applications, which consists of components such as Java Servlets, JSPs and other widespread technologies such as HTML, CSS, JavaScript and JQuery. For the application's database the language that was used is MySql.
